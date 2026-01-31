@@ -2,7 +2,9 @@
 
 ## Overview 
 
-This repository contains scripts used for RNA-seq analysis of whole blood samples to characterize host gene and human endogenous retroviral (ERV) expression in Parkinson’s disease.
+This repository contains scripts used for RNA-seq analysis of whole blood samples to characterize host gene and human endogenous retroviral (ERV) expression in Parkinson’s disease. 
+Results are omitted prior to publication.
+
 
 ## Data
 - 7921 FASTQ files (not included but retrivied from Parkinson’s Progression Markers Initiative Data Repository)
