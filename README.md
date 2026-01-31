@@ -7,7 +7,7 @@ Results are omitted prior to publication.
 
 
 ## Data
-- 7921 FASTQ files (not included but retrivied from Parkinson’s Progression Markers Initiative Data Repository)
+- 7921 FASTQ files (not included but retrieved from Parkinson’s Progression Markers Initiative Data Repository)
 - Metadata (not included)
 
 ## Workflow
